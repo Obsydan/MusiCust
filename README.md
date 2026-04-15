@@ -39,8 +39,11 @@ Dans le corps de votre page (entre les balises <body> et </body>) :
 ## Prérequis
 
 * Java 8 ou +
-* JavaFx 2.0 ou + : Vous devez installer JavaFx 2.0 ou plus sur votre machine,
-* L'extension Java dans les navigateurs : les navigateurs récents ne supporte pas java, essayer d'installer l'extension ou les extensions pour qu'ils exécutent le programme sur le web.
+* JavaFx 2.0 ou + : Vous devez installer JavaFx 2.0 ou plus sur votre machine soit ajouter la dépendance si vous souhaitez utilisez le gestionnaire des dépendances Maven ou Gradle.
+* Java Web Start : Vous devez installer Java Web Start sur votre machine pour que le programme s'exécute sur le web.
+* JavaFX Web Start : Vous devez installer JavaFX Web Start sur votre machine pour que le programme s'exécute sur le web.
+
+Ou plutot dans les navigateurs.
 
 ## Captures
 
